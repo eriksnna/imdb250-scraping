@@ -1,0 +1,6 @@
+{
+    "url": "https://www.imdb.com/chart/top/",
+    "n_filmes": 10,
+    "db_url": "sqlite:///./data/imdb.db",
+    "output_csv": "./data/movies.csv"
+}
